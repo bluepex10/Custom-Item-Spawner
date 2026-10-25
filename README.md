@@ -1,2 +1,2 @@
 # Custom-Item-Spawner
-Custom Item Spawner is an yet simple but powerful plugin for LabApi
+A https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/ plugin that allows you to spawn various items with customizable properties.
