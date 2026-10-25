@@ -1,4 +1,4 @@
-![](https://github.com/user-attachments/assets/90546a43-f9e7-431b-809d-82272de6cdf1)
+![](https://cdn.discordapp.com/attachments/1308883033130008738/1563984957901381743/CIS.png?ex=6adf9dff&is=6ade4c7f&hm=d972807a58ae7c83d036ea1cfe758e286a06cbeebfc96fec79499cc7bf92efc5&)
 
 <div align="center">
   <h1>CustomItemSpawner (CIS)</h1>
