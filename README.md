@@ -1,4 +1,5 @@
-![](https://media.discordapp.net/attachments/1308883033130008738/1563971576548958239/E2838DD3-F75E-40F8-881C-CBDB58E726AC.png?ex=6adf9189&is=6ade4009&hm=4dc2e087c52393fb2995c887332772afa7756905bf90983bdf826d72f99a420d&=&format=webp&quality=lossless)
+![](<img width="1335" height="529" alt="CIS" src="https://github.com/user-attachments/assets/90546a43-f9e7-431b-809d-82272de6cdf1" />
+)
 
 <div align="center">
   <h1>CustomItemSpawner (CIS)</h1>
