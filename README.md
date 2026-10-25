@@ -1,5 +1,4 @@
-![](<img width="1335" height="529" alt="CIS" src="https://github.com/user-attachments/assets/90546a43-f9e7-431b-809d-82272de6cdf1" />
-)
+![]("https://github.com/user-attachments/assets/90546a43-f9e7-431b-809d-82272de6cdf1)
 
 <div align="center">
   <h1>CustomItemSpawner (CIS)</h1>
