@@ -4,7 +4,7 @@ A [SCP: Secret Laboratory](https://store.steampowered.com/app/700330/SCP_Secret_
 
 ## Installation
 
-You will need the latest **EXILED** or **LabAPI** version installed on your server.
+You will need the latest **LabAPI** version installed on your server.
 
 1. Put your `CustomItemSpawner.dll` file in the `LabAPI/Plugins` directory.
 2. Restart your server to generate the configuration files.
