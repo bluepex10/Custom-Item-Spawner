@@ -1,2 +1,2 @@
 # Custom-Item-Spawner
-Custom Item Spawner is an yet simple but powerfull plugin for LabApi
+Custom Item Spawner is an yet simple but powerful plugin for LabApi
