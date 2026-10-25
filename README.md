@@ -13,20 +13,47 @@ You will need the latest **EXILED** or **LabAPI** version installed on your serv
 
 ## Developer Integration (Custom Items)
 
-To integrate your own Custom Items with the spawner, include the open-source `Client.cs` interface in your Visual Studio project:
+To integrate your own Custom Items with **CustomItemSpawner** without adding a hard dependency to your project, include the open-source `SpawnerClient.cs` helper in your custom item plugin:
 
-1. Download [`Client.cs`](https://github.com/TwojNick/TwojeRepo/blob/main/Client.cs) and add it to your project.
-2. Link your item instance upon creation:
+1. Copy the `SpawnerClient.cs` file into your Visual Studio project.
+2. Change the namespace in `SpawnerClient.cs` to match your plugin's namespace.
+3. Register and unregister your custom item upon plugin startup and shutdown:
+
+### Example Usage:
 
 ```csharp
-using YourCustomItemNamespace;
+using System;
+using LabApi.Features.Wrappers;
+using UnityEngine;
+using YourPluginNamespace; // Where SpawnerClient is located
 
-public void OnItemSpawned(Exiled.API.Features.Items.Item exiledItem)
+public class MyCustomItemPlugin
 {
-    Client spawnerClient = new Client(exiledItem);
-
-    if (spawnerClient.ValidateForSpawner())
+    public void Enable()
     {
-        // Item is ready for JSON serialization and spawner profiles
+        // Register your custom item with CustomItemSpawner
+        SpawnerClient.Register(
+            id: "my_custom_item_id",
+            displayName: "My Custom Item Name",
+            
+            // Spawn delegate: returns the spawned Pickup object
+            spawn: (position, rotation) =>
+            {
+                Pickup customPickup = MyItemManager.SpawnItem("my_custom_item_id", position, rotation);
+                return customPickup;
+            },
+            
+            // Optional despawn delegate: handles plugin-specific cleanup when the spawner removes the item
+            despawn: (pickup) =>
+            {
+                MyItemManager.CleanupItemData(pickup);
+            }
+        );
+    }
+
+    public void Disable()
+    {
+        // Unregister the item when your plugin shuts down
+        SpawnerClient.Unregister("my_custom_item_id");
     }
 }
