@@ -1,6 +1,6 @@
-![](https://cdn.discordapp.com/attachments/1308883033130008738/1563987807960174733/CIS_2.png?ex=6adfa0a6&is=6ade4f26&hm=00de8ddc0319f5b4fa7132fc51629761cddfd6e4003d53fcb0d76ee52d28f784&)
-
 <div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1308883033130008738/1563987807960174733/CIS_2.png?ex=6adfa0a6&is=6ade4f26&hm=00de8ddc0319f5b4fa7132fc51629761cddfd6e4003d53fcb0d76ee52d28f784&" alt="CIS Banner" width="100%" />
+
   <h1>CustomItemSpawner (CIS)</h1>
 </div>
 
@@ -15,7 +15,9 @@ You will need the latest **LabAPI** version installed on your server.
 
 [Full CIS User Manual](https://docs.google.com/document/d/1PYJnn3K8GMBtaKWdQbcsYq1RRu7EK-9xLU8VXjNNWlg/edit?usp=sharing)
 
-![](https://github.com/user-attachments/assets/ccc9f6a8-b4af-4a9e-a937-bd620b0de011)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ccc9f6a8-b4af-4a9e-a937-bd620b0de011" alt="CustomItemSpawner Demo GIF" width="100%" />
+</p>
 
 ---
 
