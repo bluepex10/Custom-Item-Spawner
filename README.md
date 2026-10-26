@@ -15,7 +15,7 @@ You will need the latest **LabAPI** version installed on your server.
 
 [Full CIS User Manual](https://docs.google.com/document/d/1PYJnn3K8GMBtaKWdQbcsYq1RRu7EK-9xLU8VXjNNWlg/edit?usp=sharing)
 
-![](https://cdn.discordapp.com/attachments/1308883033130008738/1564349033479147572/IMG_1094.gif?ex=6ae0f111&is=6adf9f91&hm=c9da651fc217d3034f44cff2f605c7ffeac14a958fb51d385888afc4cdff6700&)
+![](https://github.com/user-attachments/assets/ccc9f6a8-b4af-4a9e-a937-bd620b0de011)
 
 ---
 
