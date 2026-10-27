@@ -13,7 +13,7 @@ You will need the latest **LabAPI** version installed on your server.
 1. Put your `CustomItemSpawner.dll` file in the `LabAPI/Plugins` directory.
 2. Restart your server to generate the configuration files.
 
-[Full CIS User Manual](https://docs.google.com/document/d/1PYJnn3K8GMBtaKWdQbcsYq1RRu7EK-9xLU8VXjNNWlg/edit?usp=sharing)
+[Full CIS User Manual](https://drive.google.com/file/d/1vPWedmnaTaDFKUD-q1-Urqn8hpCTui4b/view?usp=sharing)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ccc9f6a8-b4af-4a9e-a937-bd620b0de011" alt="CustomItemSpawner Demo GIF" width="100%" />
