@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1b4828cb-5ea0-4842-845a-44e0ce4e4a9f&" alt="CIS Banner" width="100%" 
+  
 
 A [SCP: Secret Laboratory](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/) plugin allowing to spawn and serialize custom items `& Default Items`.
 
