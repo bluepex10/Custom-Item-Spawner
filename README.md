@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1308883033130008738/1563987807960174733/CIS_2.png?ex=6adfa0a6&is=6ade4f26&hm=00de8ddc0319f5b4fa7132fc51629761cddfd6e4003d53fcb0d76ee52d28f784&" alt="CIS Banner" width="100%" />
-
-  <h1>CustomItemSpawner (CIS)</h1>
-</div>
+  <img src="https://github.com/user-attachments/assets/1b4828cb-5ea0-4842-845a-44e0ce4e4a9f&" alt="CIS Banner" width="100%" 
 
 A [SCP: Secret Laboratory](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/) plugin allowing to spawn and serialize custom items `& Default Items`.
 
